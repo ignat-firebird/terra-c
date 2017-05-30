@@ -1,0 +1,27 @@
++ Order type	paid
++ Algorithm	Scrypt
++ Type		PoW/PoS
++ Coin name	terracoin
++ Coin abbreviation	TER
++ Address letter	T
++ RPC port	14541
++ P2P port	14542
++ Block reward	56 coins
++ Total coin supply	15733333 coins
++ Premine percent	5%
++ Premine amount	786666,65 coins
+
+
+
+Advanced Properties
+
+
++ PoS percentage		20% per year
++ Last PoW block		block 1500
++ Coinbase maturity	12 blocks
++ Target spacing		64 seconds
++ Target timespan		1 block
++ Transaction confirmations	8 blocks
+
++ Seednode 1	
++ ter1.xxxx.ccc
